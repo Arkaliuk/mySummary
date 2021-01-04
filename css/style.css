@@ -1,0 +1,61 @@
+body {
+	color: white;
+	background-color: #282c34;
+}
+
+p {
+	 font-family: Arial, Helvetica, sans-serif;
+}
+
+footer {
+	color: white;
+	font-size: 15px;
+	font-family: "Lucida Console", "Courier New", monospace;
+}
+
+table, th, td {
+  border: 1px solid black;
+  border-collapse: collapse;
+  width:45%
+}
+#title {
+	color: rgb(97, 218, 251);
+	
+}
+
+#me {
+	font-family: "Brush Script MT", cursive;
+	
+	color: yellow
+}
+
+#skills {
+	font-family: "Times New Roman", Times, serif;
+}
+
+#lists {
+	font-size: 15px;
+	color: green
+}
+
+#languages {
+	font-family: Georgia, serif;
+	color: MediumSeaGreen;
+}
+
+#education {
+	font-family: Garamond, serif;
+	font-size: 20px;
+	color: red
+}
+
+#exp {
+	font-family: Garamond, cursive
+	font-size: 15px;
+	color : blue
+} 
+#experience {
+	font-family: Garamond, serif
+	font-size: 11px;
+	color : Violet
+}
